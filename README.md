@@ -1,2 +1,2 @@
 # FizzBuzz
-fizz buzz
+:)
